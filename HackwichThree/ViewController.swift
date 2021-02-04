@@ -34,6 +34,8 @@ class ViewController: UIViewController {
         }
         
     }
+    @IBOutlet weak var RedLabel: UILabel!
     
+    @IBOutlet weak var BlueLabel: UILabel!
 }
 
